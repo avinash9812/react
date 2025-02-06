@@ -1,0 +1,26 @@
+.ticket
+{ 
+    position:static;
+    left: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    color: rgb(241, 226, 83);
+    background-color:rgb(51, 133, 209);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+}
+.btn
+{
+ 
+ color: rgb(157, 219, 219);
+}
+#font
+{
+    color: rgb(226, 226, 16);
+}

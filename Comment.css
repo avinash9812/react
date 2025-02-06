@@ -1,0 +1,36 @@
+
+.Comments {
+    color: yellow;
+    background-color: #333; /* Adding a dark background color */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.Comments h2 {
+    color: aqua;
+    font-size: 24px; /* Custom font size */
+    font-weight: bold; /* Bold text */
+    margin-bottom: 10px; /* Adding some margin */
+}
+
+.Comments h3 {
+    color: #5fdf20;
+    font-size: 20px; /* Custom font size */
+    font-weight: normal; /* Normal text weight */
+    margin-bottom: 8px; /* Adding some margin */
+}
+
+/* Custom styles for button */
+.btn {
+    background-color: rgb(224, 217, 206);
+    color: rgb(218, 23, 23);
+    padding: 8px 16px; /* Adding padding */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+.btn:hover {
+    background-color: rgb(200, 190, 175); /* Slightly darker background on hover */
+    color: rgb(180, 20, 20); /* Slightly darker text on hover */
+}
